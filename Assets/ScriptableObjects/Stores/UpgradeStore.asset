@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: UpgradeStore
   m_EditorClassIdentifier: 
   <UpgradeItems>k__BackingField:
+  - {fileID: 11400000, guid: 6959f2e44fc317544a3b5fc6b1d1dca6, type: 2}
   - {fileID: 11400000, guid: 221302768a89988448daf8afe12a54cd, type: 2}
-  - {fileID: 11400000, guid: 221302768a89988448daf8afe12a54cd, type: 2}
-  - {fileID: 11400000, guid: 221302768a89988448daf8afe12a54cd, type: 2}
-  - {fileID: 11400000, guid: 221302768a89988448daf8afe12a54cd, type: 2}
+  - {fileID: 11400000, guid: 0e239fecb0177374abbc95702781b6eb, type: 2}
+  - {fileID: 11400000, guid: 1a35411476e4cf04dab361e4518af303, type: 2}
+  - {fileID: 11400000, guid: 94ec27553646efa4ba9dd004fb2ffbe0, type: 2}
