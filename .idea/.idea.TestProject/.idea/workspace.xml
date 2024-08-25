@@ -4,12 +4,140 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="603fc572-d1b5-4aae-8431-f247a5248f35" name="Changes" comment="">
+    <list default="true" id="603fc572-d1b5-4aae-8431-f247a5248f35" name="Changes" comment="Front and back">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/CloseButton.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/CloseButton.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/UpgradeItemButton.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/UpgradeItemButton.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/UpgradeStoreButton.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/UpgradeStoreButton.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Arthura.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Arthura/Arthura-Black.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Arthura/Arthura-Black.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Arthura/Arthura-Bold SDF.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Arthura/Arthura-Bold SDF.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Arthura/Arthura-Bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Arthura/Arthura-Bold.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Arthura/Arthura-Light.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Arthura/Arthura-Light.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Arthura/Arthura-Medium.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Arthura/Arthura-Medium.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Arthura/Arthura-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Arthura/Arthura-Regular.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Arthura/Arthura-Thin.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Arthura/Arthura-Thin.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Noah.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Noah/noah-bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Noah/noah-bold.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Noah/noah-bolditalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Noah/noah-bolditalic.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Noah/noah-regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Noah/noah-regular.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Noah/noah-regularitalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Noah/noah-regularitalic.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-Black.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-Black.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-BlackItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-BlackItalic.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-Bold SDF.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-Bold SDF.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-Bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-Bold.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-BoldItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-BoldItalic.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-Book.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-Book.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-BookItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-BookItalic.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-ExtraBold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-ExtraBold.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-ExtraBoldItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-ExtraBoldItalic.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-Light.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-Light.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-LightItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-LightItalic.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-Regular.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-RegularItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-RegularItalic.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-Thin.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-Thin.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-ThinItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-ThinItalic.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-UltraBlack.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-UltraBlack.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-UltraBlackItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-UltraBlackItalic.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-UltraLight.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-UltraLight.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-UltraLightItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/SuperaGothic/SuperaGothic-UltraLightItalic.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/DOTween.XML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/DOTween.XML.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/DOTween.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/DOTween.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.XML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.XML.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Editor/Imgs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Editor/Imgs/DOTweenIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Editor/Imgs/DOTweenIcon.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Editor/Imgs/DOTweenMiniIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Editor/Imgs/DOTweenMiniIcon.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Footer.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Footer_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Footer_dark.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Header.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Modules.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleEPOOutline.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleEPOOutline.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTween/readme.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/UpgradeItemButton.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/UpgradeItemButton.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/DOTweenSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/DOTweenSettings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Upgrades/BiggerPortion.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Upgrades/BiggerPortion.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Upgrades/MaturedForLonger.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Upgrades/MaturedForLonger.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Upgrades/VisitAUniversityJobFair.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Upgrades/VisitAUniversityJobFair.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Upgrades/WatchATutorial.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Upgrades/WatchATutorial.asset.meta" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Assets/Scripts/Buttons.meta" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Assets/Scripts/Buttons/CustomButton.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Assets/Scripts/Buttons/CustomButton.cs.meta" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Assets/Scripts/Buttons/UICloser.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Assets/Scripts/Buttons/UICloser.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Buttons/UIOpener.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Buttons/UIOpener.cs.meta" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs.meta" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI.meta" afterDir="false" />
@@ -22,6 +150,33 @@
       <change afterPath="$PROJECT_DIR$/Assets/Scripts/Upgrades/UpgradeItemLogic.cs.meta" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Assets/Scripts/Upgrades/UpgradeItemView.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Assets/Scripts/Upgrades/UpgradeStore.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/GoldCoin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/GoldCoin.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/backgroundGray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/backgroundGray.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/backgroundWhite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/backgroundWhite.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/buttonBluePressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/buttonBluePressed.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/buttonBlueRegular.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/buttonBlueRegular.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/buttonGrayPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/buttonGrayPressed.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/buttonGrayRegular .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/buttonGrayRegular .png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/buttonRedPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/buttonRedPressed.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/buttonRedRegular.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/buttonRedRegular.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/icon1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/icon2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/icon3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/icon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/icon4.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TestProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestProject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Animations/Buttons.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Animations/Buttons/ActiveButton.controller" beforeDir="false" />
@@ -179,7 +334,7 @@
       <workItem from="1724426888896" duration="1000" />
       <workItem from="1724429043449" duration="7207000" />
       <workItem from="1724484987854" duration="31900000" />
-      <workItem from="1724570530154" duration="7355000" />
+      <workItem from="1724570530154" duration="7982000" />
     </task>
     <task id="LOCAL-00001" summary="Front">
       <option name="closed" value="true" />
@@ -189,7 +344,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724436578038</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Front and back">
+      <option name="closed" value="true" />
+      <created>1724581798263</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724581798263</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
@@ -214,6 +377,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Front" />
-    <option name="LAST_COMMIT_MESSAGE" value="Front" />
+    <MESSAGE value="Front and back" />
+    <option name="LAST_COMMIT_MESSAGE" value="Front and back" />
   </component>
 </project>
